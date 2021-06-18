@@ -1,0 +1,16 @@
+.App {
+  padding: 20px;
+}
+
+.Form {
+  display: flex;
+  flex-direction: column;
+}
+
+label + label {
+  margin-top: 10px;
+}
+
+input {
+  margin-left: 10px;
+}
